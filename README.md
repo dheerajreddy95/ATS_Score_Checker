@@ -1,4 +1,4 @@
-                                                                                    ## ATS Resume Expert
+                                                                                    # **ATS Resume Expert**
 
 This repository hosts a Streamlit app designed to help users optimize their resumes for ATS (Applicant Tracking Systems). It enables users to upload their resumes (in PDF format) and analyze them against a provided job description. The app leverages Google's Gemini model API to offer detailed responses, such as:
 
